@@ -1,5 +1,4 @@
-## 👋 Merhaba, ben Ömer 👋
-
+##
 <samp>
   <h1 align="center" style="color:#EF7F1A; text-shadow: 3px 4px 4px #2B2A29;">👋Merhaba, Ben Ömer👋</h1>
 
