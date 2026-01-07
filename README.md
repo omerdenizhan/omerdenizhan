@@ -11,7 +11,7 @@
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
       <b>İlgi Alanlarım</b>
-      <i>(genişletmek için tıklayın!)</i>
+      <i>(Genişletmek için tıklayınız)</i>
     </summary>
     <br/>
   
@@ -25,11 +25,13 @@
   ![RESTful](https://img.shields.io/badge/restful-cD1?style=for-the-badge&logo=postman&logoColor=EF7F1A&color=2B2A29)
   </details>
 
+---
+
   <h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29"> İletişim: </h2>
 
   <div align="center">
     <a href="https://t.me/dnzhn77" target="_blank">
-      <img alt="iletisim | Telegram" src="https://img.shields.io/badge/Telegram-cD1?style=for-the-badge&logo=telegram&logoColor=EF7F1A&color=2B2A29">
+      <img alt="iletişim | Telegram" src="https://img.shields.io/badge/Telegram-cD1?style=for-the-badge&logo=telegram&logoColor=EF7F1A&color=2B2A29">
     </a>
   </div>
 
@@ -38,7 +40,7 @@
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
       <b>GitHub İstatistikleri</b>
-      <i>(genişletmek için tıklayın!)</i>
+      <i>(Genişletmek için tıklayınınız)</i>
     </summary>
     <br/>
   <img width="53%" alt="omerdenizhan'ın GitHub İstatistikleri" src="https://github-readme-stats.vercel.app/api?username=omerdenizhan&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A&locale=tr"/>
@@ -46,19 +48,17 @@
   </details>
 </samp>
 
-  ---
+---
 
 <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
         <b>Projeler</b>
-        <i>(genişletmek için tıklayın!)</i>
+        <i>(Genişletmek için tıklayınınız)</i>
     </summary>
 
-<a href="https://github.com/keyiflerolsun/Kekik-cloudstream" target="_blank"><img height="150px" width="45%" alt="Kekik-cloudstream" src="https://github-readme-stats.vercel.app/api/pin/?username=keyiflerolsun&repo=Kekik-cloudstream&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a> 
-[![Otomatik Profil Güncelleyici](https://github.com/keyiflerolsun/keyiflerolsun/actions/workflows/keyiflerolsun.yml/badge.svg)](https://github.com/keyiflerolsun/keyiflerolsun/actions/workflows/keyiflerolsun.yml)
+<a href="https://github.com/omerdenizhan/IPTV-M3U" target="_blank"><img height="150px" width="45%" alt="IPTV-M3U" src="https://github-readme-stats.vercel.app/api/pin/?username=omerdenizhan&repo=IPTV-M3U&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a> <a href="https://github.com/omerdenizhan/Android-APK" target="_blank"><img height="150px" width="45%" alt="Android-APK" src="https://github-readme-stats.vercel.app/api/pin/?username=omerdenizhan&repo=Android-APK&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a> 
 
 
-
-Son Güncelleme: 07-01-2026 03:31:55
+Son Güncelleme: 07 Ocak 2026
 </details>
 
