@@ -30,5 +30,5 @@
 ---
 
 <p align="center">
-  <b>Son Güncelleme: 07 Ocak 2026</b>
+  <b>Son Güncelleme: 11 Ocak 2026</b>
 </p>
