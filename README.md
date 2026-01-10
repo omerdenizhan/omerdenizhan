@@ -9,7 +9,6 @@
   <div align="center">
 
   ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
-  ![Telegram](https://img.shields.io/badge/Telegram-cD1?style=for-the-badge&logo=telegram&logoColor=EF7F1A&color=2B2A29)
   ![Docker](https://img.shields.io/badge/docker-cD1?style=for-the-badge&logo=docker&logoColor=EF7F1A&color=2B2A29)
   </div>
 
