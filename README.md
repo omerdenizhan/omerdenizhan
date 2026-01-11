@@ -20,13 +20,6 @@
     </a>
   </div>
 
-
-<h1 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29">Projeler</h1>
-  <div align="center">
-    <a href="https://github.com/omerdenizhan/IPTV-M3U" target="_blank"><img height="150px" width="45%" alt="IPTV-M3U" src="https://github-readme-stats.vercel.app/api/pin/?username=omerdenizhan&repo=IPTV-M3U&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a>
-    <a href="https://github.com/omerdenizhan/Android-APK" target="_blank"><img height="150px" width="45%" alt="Android-APK" src="https://github-readme-stats.vercel.app/api/pin/?username=omerdenizhan&repo=Android-APK&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a>
-  </div>
-
 ---
 
 <p align="center">
