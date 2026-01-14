@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#EF7F1A; text-shadow: 3px 4px 4px #2B2A29;">👋 Merhaba, Ben Ömer👋</h1>
   <p align="center">
     <a href="https://github.com/omerdenizhan">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Ziyaretçi Sayısı" alt="Ziyaret">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1">
     </a>
   </p>
 
@@ -23,9 +23,9 @@
 
 ---
 
-<p align="center">
-  <b>Son Güncelleme: 11 Ocak 2026</b>
-</p>
+<h1 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29">Son Güncelleme</h1>
+<p align="center">11 Ocak 2026</p> 
 
 ---
+
 <p align="center">❤️ Made with Love ❤️</p>
