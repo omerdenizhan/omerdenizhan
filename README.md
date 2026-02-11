@@ -20,7 +20,7 @@
 ---
 
 <h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29">Son Güncelleme</h1>
-<p align="center">03 Şubat 2026</p>
+<p align="center">11 Şubat 2026</p>
 
 ---
 
