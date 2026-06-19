@@ -14,7 +14,9 @@
 
 <h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29">⚙️ Projeler ⚙️</h1>
   <div align="center">
-    <a href="https://github.com/omerdenizhan/IPTV-M3U" target="_blank"> <img src="https://img.shields.io/badge/Repository-IPTV_M3U-red?logo=Github"></a>
+    <a href="https://github.com/omerdenizhan/IPTV-M3U" target="_blank"> <img src="https://img.shields.io/badge/Repository-IPTV_M3U-red?style=flat-square&logo=Github">
+      <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" target="_blank"> <img src="https://img.shields.io/badge/Repository-IPTV_M3U_Editor-red?style=flat-square&logo=Github">
+    </a>
   </div>
 
 ---
