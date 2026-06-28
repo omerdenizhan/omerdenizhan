@@ -1,26 +1,37 @@
-<h1 align="center" style="color:#EF7F1A; text-shadow: 3px 4px 4px #2B2A29;">👋 Merhaba, Ben Ömer👋</h1>
-  <p align="center">
-    <a href="https://github.com/omerdenizhan">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1">
-    </a>
-  </p>
+# 👋 Hi, I'm Ömer 👋
 
-<h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29">📱 İletişim 📱</h1>
-  <div align="center">
-    <a href="https://t.me/dnzhn77" target="_blank">
-      <img alt="iletişim | Telegram" src="https://img.shields.io/badge/Telegram-cD1?style=for-the-badge&logo=telegram&logoColor=EF7F1A&color=2B2A29">
-    </a>
-  </div>
-
-<h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29">⚙️ Projeler ⚙️</h1>
-  <div align="center">
-    <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" target="_blank"><img src="https://img.shields.io/badge/Repository-IPTV_M3U_Editor-red?style=flat-square&logo=Github"><a href="https://github.com/omerdenizhan/IPTV-M3U" target="_blank"><img src="https://img.shields.io/badge/Repository-IPTV_M3U-red?style=flat-square&logo=Github"></a>
-  </div>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors) 
 
 ---
 
-<h2 align="center" style="color:#EF7F1A;text-shadow: 3px 4px 4px #2B2A29">🕰️ Son Güncelleme 🕰️</h1>
-<p align="center">21 Haziran 2026 tarihinde güncelleme yapılmıştır</p>
+## 💫 About Me:
+💻 I work on all my projects whenever I get the chance.
+
+---
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/odenizhan) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/user/) [![X](https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dnzhn77) [![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:)
+
+---
+
+## ⚙️ Projects
+[![IPTV-M3U-Editor](https://img.shields.io/badge/Repository-IPTV_M3U_Editor-red?style=flat-square&logo=Github)](https://github.com/omerdenizhan/IPTV-M3U-Editor) [![IPTV-M3U](https://img.shields.io/badge/Repository-IPTV_M3U-red?style=flat-square&logo=Github)](https://github.com/omerdenizhan/IPTV-M3U)
+
+---
+
+## 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🕰️ Last Update
+June 27, 2026
 
 ---
 
