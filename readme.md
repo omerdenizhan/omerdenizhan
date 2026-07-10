@@ -10,17 +10,18 @@
 <p align="center">
   <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
     <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
-    <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
+  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
     <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
-    <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
+  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
     <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
-    <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
+  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
+    <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
+  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
     <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
   </a>
 </p>
 
 
-[![IPTV M3U Editor](https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U-Editor "IPTV M3U Editor")
 [![IPTV M3U Editor](https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U-Editor "IPTV M3U Editor")
 [![IPTV M3U](https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U "IPTV M3U")
 [![Batch Scripts](https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/batch-scripts "Batch Scripts")
