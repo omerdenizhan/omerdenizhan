@@ -14,18 +14,12 @@
     <img src="https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub">
   <a href="https://github.com/omerdenizhan/batch-scripts" title="Batch Scripts">
     <img src="https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub">
-  <a href="" title="">
-    <img src="">
-  <a href="" title="r">
-    <img src="">
+  <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors" title="Material Design Dark Cursors">
+    <img src="https://img.shields.io/badge/Repo-Material_Design_Dark_Cursors-red?style=flat-square&logo=GitHub">
+  <a href="https://github.com/omerdenizhan/win-reg-compilations" title="Regedit Compilations">
+    <img src="https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub">
   </a>
 </p>
-
-
-
-
-[![Material Design Dark Cursors](https://img.shields.io/badge/Repo-Material_Design_Dark_Cursors-red?style=flat-square&logo=GitHub)]( "Material Design Dark Cursors")
-[![Regedit Compilations](https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/win-reg-compilations "Regedit Compilations")
 
 ## ⚙️ Projects Web Pages
 <p align="center">
