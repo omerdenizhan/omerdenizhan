@@ -13,7 +13,7 @@
 [![Regedit Compilations](https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/win-reg-compilations "Regedit Compilations")
 
 ## 💻 Tech Stack
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]("HTML5")
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "HTML5")
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS")
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white "CSS3")
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "JavaScript")
