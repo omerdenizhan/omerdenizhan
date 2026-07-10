@@ -6,7 +6,14 @@
 <h2 align="center">💫 About Me</h2>
 <p align="center">I work on new projects whenever I get the chance</p>
 
-## ⚙️ Projects
+<h2 align="center">⚙️ Projects</h2>
+<p align="center">
+  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
+    <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
+  </a>
+</p>
+
+
 [![IPTV M3U Editor](https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U-Editor "IPTV M3U Editor")
 [![IPTV M3U Editor](https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U-Editor "IPTV M3U Editor")
 [![IPTV M3U](https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U "IPTV M3U")
