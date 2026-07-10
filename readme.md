@@ -7,9 +7,11 @@
 
 
 ## ⚙️ Projects
-[![batch-scripts](https://img.shields.io/badge/Repo-Batch_Scripts-blue%3Flogo%3Dgithub?style=flat-square&logo=GitHub&color=red)](https://github.com/omerdenizhan/batch-scripts)
-[![batch-scripts](https://img.shields.io/badge/Repo-Regedit_Compilations-blue%3Flogo%3Dgithub?style=flat-square&logo=GitHub&color=red)](https://github.com/omerdenizhan/win-reg-compilations)
-[![batch-scripts](https://img.shields.io/badge/Repo-IPTV_M3U-blue%3Flogo%3Dgithub?style=flat-square&logo=GitHub&color=red)](https://github.com/omerdenizhan/IPTV-M3U)
+[![Batch Scripts](https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/batch-scripts)
+[![Regedit Compilations](https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/win-reg-compilations)
+[![IPTV M3U](https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U)
+[![IPTV M3U Editor](https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U-Editor)
+
 
 
 
