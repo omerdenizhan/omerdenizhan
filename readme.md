@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ömer 👋</h1>
-<p align="center"><img ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors "Visitors")></p>
+<p align="center">![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors "Visitors")</p>
 
 ## 💫 About Me
 I work on new projects whenever I get the chance.
