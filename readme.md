@@ -7,24 +7,23 @@
 <p align="center">I work on new projects whenever I get the chance</p>
 
 <h2 align="center">⚙️ Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
-    <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
-  <a href="https://github.com/omerdenizhan/IPTV-M3U" title="IPTV M3U">
-    <img src="https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub">
-  <a href="https://github.com/omerdenizhan/batch-scripts" title="Batch Scripts">
-    <img src="https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub">
-  <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors" title="Material Design Dark Cursors">
-    <img src="https://img.shields.io/badge/Repo-Material_Design_Dark_Cursors-red?style=flat-square&logo=GitHub">
-  <a href="https://github.com/omerdenizhan/win-reg-compilations" title="Regedit Compilations">
-    <img src="https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub">
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
+      <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
+      <a href="https://github.com/omerdenizhan/IPTV-M3U" title="IPTV M3U">
+      <img src="https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub">
+      <a href="https://github.com/omerdenizhan/batch-scripts" title="Batch Scripts">
+      <img src="https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub">
+      <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors" title="Material Design Dark Cursors">
+      <img src="https://img.shields.io/badge/Repo-Material_Design_Dark_Cursors-red?style=flat-square&logo=GitHub">
+      <a href="https://github.com/omerdenizhan/win-reg-compilations" title="Regedit Compilations">
+      <img src="https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub">
+    </a>
+  </p>
 
 <h2 align="center">⚙️ Projects Web Pages</h2>
 <p align="center">
-  <<img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub" alt="IPTV M3U Editor Web Page">
+  <img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub" alt="IPTV M3U Editor Web Page">
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -38,7 +37,7 @@
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </p>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 ![](https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
