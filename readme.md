@@ -6,11 +6,11 @@
 💻 I work on new projects whenever I get the chance.
 
 ## ⚙️ Projects
-[![Batch Scripts](https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/batch-scripts)
-[![Regedit Compilations](https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/win-reg-compilations)
-[![IPTV M3U](https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U)
 [![IPTV M3U Editor](https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U-Editor)
+[![IPTV M3U](https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U)
+[![Batch Scripts](https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/batch-scripts)
 [![Material Design Dark Cursors](https://img.shields.io/badge/Repo-Material_Design_Dark_Cursors-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/Material-Design-Dark-Cursors)
+[![Regedit Compilations](https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/win-reg-compilations)
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
