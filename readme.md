@@ -14,7 +14,8 @@
 [![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omer_denizhan@msn.com)
 
 ## ⚙️ Projects
-[![IPTV-M3U-Editor](https://img.shields.io/badge/Repository-IPTV_M3U_Editor-red?style=flat-square&logo=Github)](https://github.com/omerdenizhan/IPTV-M3U-Editor)
+[![batch-scripts](https://img.shields.io/badge/Repo-Batch_Scripts-blue%3Flogo%3Dgithub?style=plastic&logo=GitHub&color=red)](https://github.com/omerdenizhan/batch-scripts)
+
 [![IPTV-M3U](https://img.shields.io/badge/Repository-IPTV_M3U-red?style=flat-square&logo=Github)](https://github.com/omerdenizhan/IPTV-M3U)
 
 ## 💻 Tech Stack
