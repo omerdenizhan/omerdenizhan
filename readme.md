@@ -10,22 +10,21 @@
 <p align="center">
   <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
     <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
-  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
-    <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
-  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
-    <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
-  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
-    <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
-  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
-    <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
+  <a href="https://github.com/omerdenizhan/IPTV-M3U" title="IPTV M3U">
+    <img src="https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub">
+  <a href="https://github.com/omerdenizhan/batch-scripts" title="Batch Scripts">
+    <img src="https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub">
+  <a href="" title="">
+    <img src="">
+  <a href="" title="r">
+    <img src="">
   </a>
 </p>
 
 
-[![IPTV M3U Editor](https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U-Editor "IPTV M3U Editor")
-[![IPTV M3U](https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U "IPTV M3U")
-[![Batch Scripts](https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/batch-scripts "Batch Scripts")
-[![Material Design Dark Cursors](https://img.shields.io/badge/Repo-Material_Design_Dark_Cursors-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/Material-Design-Dark-Cursors "Material Design Dark Cursors")
+
+
+[![Material Design Dark Cursors](https://img.shields.io/badge/Repo-Material_Design_Dark_Cursors-red?style=flat-square&logo=GitHub)]( "Material Design Dark Cursors")
 [![Regedit Compilations](https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/win-reg-compilations "Regedit Compilations")
 
 ## ⚙️ Projects Web Pages
