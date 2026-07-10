@@ -3,8 +3,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
 </p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors "Visitors")
-
 ## 💫 About Me
 I work on new projects whenever I get the chance.
 
