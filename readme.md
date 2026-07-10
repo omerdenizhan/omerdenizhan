@@ -32,7 +32,7 @@
 [![X](https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com "X (Old Twitter)")
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dnzhn77 "Telegram")
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com "Reddit")
-[![e-Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omer_denizhan@msn.com "e-Mail")
+[![e-Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omer_denizhan@msn.com "Email")
 
 ## 🕰️ Last Update
 July 10, 2026
