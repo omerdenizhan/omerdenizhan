@@ -11,6 +11,15 @@
   <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
     <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
   </a>
+  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
+    <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
+  </a>
+  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
+    <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
+  </a>
+  <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
+    <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
+  </a>
 </p>
 
 
