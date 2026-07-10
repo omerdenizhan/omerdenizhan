@@ -6,6 +6,8 @@
 I work on new projects whenever I get the chance.
 
 ## ⚙️ Projects
+
+[![IPTV M3U Editor Web Page](https://img.shields.io/badge/Repo-IPTV_M3U_Editor_Web_Page-blue?style=flat-square&logo=GitHub)](https://omerdenizhan.github.io/IPTV-M3U-Editor "IPTV M3U Editor Web Page")<br/>
 [![IPTV M3U Editor](https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U-Editor "IPTV M3U Editor")
 [![IPTV M3U](https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U "IPTV M3U")
 [![Batch Scripts](https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/batch-scripts "Batch Scripts")
