@@ -3,8 +3,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors) 
 
 ## 💫 About Me
-💻 I work on all my projects whenever I get the chance.
-
+💻 I work on new projects whenever I get the chance.
 
 ## ⚙️ Projects
 [![Batch Scripts](https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/batch-scripts)
