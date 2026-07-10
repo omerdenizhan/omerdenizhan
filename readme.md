@@ -3,10 +3,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
 </p>
 
-##💫 About Me
+## 💫 About Me
 I work on new projects whenever I get the chance
 
-##⚙️ Projects
+## ⚙️ Projects
 [![IPTV M3U Editor](https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U-Editor "IPTV M3U Editor")
 [![IPTV M3U Editor](https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U-Editor "IPTV M3U Editor")
 [![IPTV M3U](https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U "IPTV M3U")
