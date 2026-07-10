@@ -24,13 +24,19 @@
 
 <h2 align="center">⚙️ Projects Web Pages</h2>
 <p align="center">
-  <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor Web Page">
+  <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="">
     <img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub" alt="IPTV M3U Editor Web Page">
   </a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "HTML5")
+<p align="center">
+  <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor Web Page">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+</p>
+
+![HTML5]( "")
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind CSS")
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white "CSS3")
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "JavaScript")
