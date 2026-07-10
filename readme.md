@@ -11,24 +11,18 @@
 ##
 <h2 align="center">⚙️ Projects</h2>
   <p align="center">
-    <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor">
-      <img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
-      <a href="https://github.com/omerdenizhan/IPTV-M3U" title="IPTV M3U">
-      <img src="https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub">
-      <a href="https://github.com/omerdenizhan/batch-scripts" title="Batch Scripts">
-      <img src="https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub">
-      <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors" title="Material Design Dark Cursors">
-      <img src="https://img.shields.io/badge/Repo-Material_Design_Dark_Cursors-red?style=flat-square&logo=GitHub">
-      <a href="https://github.com/omerdenizhan/win-reg-compilations" title="Regedit Compilations">
-      <img src="https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub">
+    <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
+    <a href="https://github.com/omerdenizhan/IPTV-M3U" title="IPTV M3U"><img src="https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub">
+    <a href="https://github.com/omerdenizhan/batch-scripts" title="Batch Scripts"><img src="https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub">
+    <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors" title="Material Design Dark Cursors"><img src="https://img.shields.io/badge/Repo-Material_Design_Dark_Cursors-red?style=flat-square&logo=GitHub">
+    <a href="https://github.com/omerdenizhan/win-reg-compilations" title="Regedit Compilations"><img src="https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub">
     </a>
   </p>
 
 ##
 <h2 align="center">⚙️ Projects Web Pages</h2>
   <p align="center">
-    <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor">
-      <img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub">
+    <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub">
     </a>
   </p>
 
