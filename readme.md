@@ -5,18 +5,12 @@
 ## 💫 About Me
 💻 I work on all my projects whenever I get the chance.
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
-[![X](https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dnzhn77)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com)
-[![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omer_denizhan@msn.com)
 
 ## ⚙️ Projects
 [![batch-scripts](https://img.shields.io/badge/Repo-Batch_Scripts-blue%3Flogo%3Dgithub?style=flat-square&logo=GitHub&color=red)](https://github.com/omerdenizhan/batch-scripts)
+[![batch-scripts](https://img.shields.io/badge/Repo-Regedit_Compilations-blue%3Flogo%3Dgithub?style=flat-square&logo=GitHub&color=red)](https://github.com/omerdenizhan/win-reg-compilations)
 
-[![IPTV-M3U](https://img.shields.io/badge/Repository-IPTV_M3U-red?style=flat-square&logo=Github)](https://github.com/omerdenizhan/IPTV-M3U)
+
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,6 +25,14 @@
 ![](https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
+[![X](https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dnzhn77)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com)
+[![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omer_denizhan@msn.com)
 
 ## 🕰️ Last Update
 July 10, 2026
