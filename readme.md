@@ -24,9 +24,7 @@
 
 <h2 align="center">⚙️ Projects Web Pages</h2>
 <p align="center">
-  <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="">
-    <img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub" alt="IPTV M3U Editor Web Page">
-  </a>
+  <<img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub" alt="IPTV M3U Editor Web Page">
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
