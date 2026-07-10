@@ -40,4 +40,4 @@ I work on new projects whenever I get the chance.
 ## 🕰️ Last Update
 July 10, 2026
 
-## <p align="center">❤️ Made with Love ❤️</p>
+# <p align="center">❤️ Made with Love ❤️</p>
