@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ömer 👋</h1>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
+</p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors "Visitors")
 
