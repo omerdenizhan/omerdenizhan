@@ -13,7 +13,7 @@ I work on new projects whenever I get the chance.
 [![Regedit Compilations](https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/win-reg-compilations "Regedit Compilations")
 
 ## ⚙️ Projects Web Pages
-[![IPTV M3U Editor Web Page](https://img.shields.io/badge/Repo-IPTV_M3U_Editor_Web_Page-blue?style=flat-square&logo=GitHub)](https://omerdenizhan.github.io/IPTV-M3U-Editor "IPTV M3U Editor Web Page")
+[![IPTV M3U Editor Web Page](https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub)](https://omerdenizhan.github.io/IPTV-M3U-Editor "IPTV M3U Editor Web Page")
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "HTML5")
