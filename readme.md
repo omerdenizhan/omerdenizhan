@@ -22,8 +22,7 @@
 ##
 <h2 align="center">⚙️ Projects Web Pages</h2>
   <p align="center">
-    <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub">
-    </a>
+    <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub"></a>
   </p>
 
 ##
@@ -40,6 +39,7 @@
 
 ##
 <h2 align="center">📊 GitHub Stats</h2>
+
 ![](https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
