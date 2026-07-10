@@ -2,12 +2,8 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors) 
 
----
-
 ## 💫 About Me
 💻 I work on all my projects whenever I get the chance.
-
----
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com)
@@ -17,13 +13,9 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com)
 [![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omer_denizhan@msn.com)
 
----
-
 ## ⚙️ Projects
 [![IPTV-M3U-Editor](https://img.shields.io/badge/Repository-IPTV_M3U_Editor-red?style=flat-square&logo=Github)](https://github.com/omerdenizhan/IPTV-M3U-Editor)
 [![IPTV-M3U](https://img.shields.io/badge/Repository-IPTV_M3U-red?style=flat-square&logo=Github)](https://github.com/omerdenizhan/IPTV-M3U)
-
----
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,13 +26,10 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ## 🕰️ Last Update
 July 10, 2026
