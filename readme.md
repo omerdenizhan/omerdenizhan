@@ -1,14 +1,14 @@
-# 
+#  
 <h1 align="center">👋 Hi, I'm Ömer 👋</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
 </p>
 
-## 
+##  
 <h2 align="center">💫 About Me</h2>
 <p align="center">I work on new projects whenever I get the chance</p>
 
-## 
+##  
 <h2 align="center">⚙️ Projects</h2>
   <p align="center">
     <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
@@ -19,13 +19,13 @@
     </a>
   </p>
 
-## 
+##  
 <h2 align="center">⚙️ Projects Web Pages</h2>
   <p align="center">
     <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub"></a>
   </p>
 
-## 
+##  
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </p>
 
-## 
+##  
 <h2 align="center">📊 GitHub Stats</h2>
 
 ![](https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
