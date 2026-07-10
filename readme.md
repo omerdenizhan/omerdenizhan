@@ -3,7 +3,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors "Visitors")
 
 ## 💫 About Me
-💻 I work on new projects whenever I get the chance.
+I work on new projects whenever I get the chance.
 
 ## ⚙️ Projects
 [![IPTV M3U Editor](https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub)](https://github.com/omerdenizhan/IPTV-M3U-Editor "IPTV M3U Editor")
@@ -36,7 +36,5 @@
 
 ## 🕰️ Last Update
 July 10, 2026
-
----
 
 ## <p align="center">❤️ Made with Love ❤️</p>
