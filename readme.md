@@ -29,7 +29,7 @@
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com "Facebook")
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com "Instagram")
-[![X](https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com "X (Old Twitter")
+[![X](https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com "X (Old Twitter)")
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dnzhn77 "Telegram")
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com "Reddit")
 [![e-Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omer_denizhan@msn.com "e-Mail")
