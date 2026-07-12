@@ -1,14 +1,11 @@
-#  
 <h1 align="center">👋 Hi, I'm Ömer 👋</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
 </p>
 
-##  
 <h2 align="center">💫 About Me</h2>
 <p align="center">I work on new projects whenever I get the chance</p>
 
-##  
 <h2 align="center">⚙️ Projects</h2>
   <p align="center">
     <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
@@ -19,7 +16,6 @@
     </a>
   </p>
 
-##  
 <h2 align="center">⚙️ Projects Web Pages</h2>
   <p align="center">
     <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub"></a>
