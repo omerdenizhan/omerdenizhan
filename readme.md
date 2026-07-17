@@ -12,7 +12,6 @@
   <p align="center">
     <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
     <a href="https://github.com/omerdenizhan/IPTV-M3U" title="IPTV M3U"><img src="https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub">
-    <a href="https://github.com/omerdenizhan/android-online-tv-apks" title="Android Online TV APKs"><img src="https://img.shields.io/badge/Repo-Android_Online_TV_APKs-red?style=flat-square&logo=GitHub">
     <a href="https://github.com/omerdenizhan/batch-scripts" title="Batch Scripts"><img src="https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub">
     <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors" title="Material Design Dark Cursors"><img src="https://img.shields.io/badge/Repo-Material_Design_Dark_Cursors-red?style=flat-square&logo=GitHub">
     <a href="https://github.com/omerdenizhan/win-reg-compilations" title="Regedit Compilations"><img src="https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub"></a>
