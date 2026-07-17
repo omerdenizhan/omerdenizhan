@@ -4,6 +4,7 @@
   </p>
 
 ## <h2 align="center">💫 About Me</h2>
+  <p align="center">I am a peaceful person who does no harm to anyone, is married, happy and has children</p>
   <p align="center">I update my current projects and work on new projects whenever I get the chance</p>
 
 ## <h2 align="center">⚙️ Projects</h2>
