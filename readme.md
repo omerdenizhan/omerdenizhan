@@ -3,10 +3,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
 </p>
 
-## 💫 About Me
-I work on new projects whenever I get the chance
+## <p align="center">💫 About Me</p>
+<p align="center">I work on new projects whenever I get the chance</p>
 
-## ⚙️ Projects
+## <p align="center">⚙️ Projects</p>
   <p align="center">
     <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
     <a href="https://github.com/omerdenizhan/IPTV-M3U" title="IPTV M3U"><img src="https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub">
@@ -15,12 +15,12 @@ I work on new projects whenever I get the chance
     <a href="https://github.com/omerdenizhan/win-reg-compilations" title="Regedit Compilations"><img src="https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub"></a>
   </p>
 
-## ⚙️ Projects Web Pages
+## <p align="center">⚙️ Projects Web Pages</p>
   <p align="center">
     <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub"></a>
   </p>
 
-## 💻 Tech Stack
+## <p align="center">💻 Tech Stack</p>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
@@ -31,7 +31,7 @@ I work on new projects whenever I get the chance
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </p>
 
-## 📊 GitHub Stats
+## <p align="center">📊 GitHub Stats</p>
   <p align="center">
     <img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
   </p>
@@ -42,7 +42,7 @@ I work on new projects whenever I get the chance
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
   </p>
 
-## 🌐 Socials
+## <p align="center">🌐 Socials</p>
   <p align="center">
     <a href="https://facebook.com" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
     <a href="https://instagram.com" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
@@ -53,7 +53,7 @@ I work on new projects whenever I get the chance
     </a>
   </p>
 
-## 🕰️ Last Update
+## <p align="center">🕰️ Last Update</p>
 July 17, 2026
 
-## <p align="center">❤️ Made with Love ❤️</p>
+# <p align="center">❤️ Made with Love ❤️</p>
