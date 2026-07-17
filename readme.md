@@ -1,12 +1,12 @@
-# <p align="center">👋Hi, I'm Ömer 👋</p>
+# <h1 align="center">👋Hi, I'm Ömer 👋</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
 </p>
 
-## <p align="center">💫 About Me</p>
+## <h2 align="center">💫 About Me</h2>
 <p align="center">I work on new projects whenever I get the chance</p>
 
-## <p align="center">⚙️ Projects</p>
+## <h2 align="center">⚙️ Projects</h2>
   <p align="center">
     <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
     <a href="https://github.com/omerdenizhan/IPTV-M3U" title="IPTV M3U"><img src="https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub">
@@ -15,12 +15,12 @@
     <a href="https://github.com/omerdenizhan/win-reg-compilations" title="Regedit Compilations"><img src="https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub"></a>
   </p>
 
-## <p align="center">⚙️ Projects Web Pages</p>
+## <h2 align="center">⚙️ Projects Web Pages</h2>
   <p align="center">
     <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub"></a>
   </p>
 
-## <p align="center">💻 Tech Stack</p>
+## <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </p>
 
-## <p align="center">📊 GitHub Stats</p>
+## <h2 align="center">📊 GitHub Stats</h2>
   <p align="center">
     <img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
   </p>
@@ -42,7 +42,7 @@
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
   </p>
 
-## <p align="center">🌐 Socials</p>
+## <h2 align="center">🌐 Socials</h2>
   <p align="center">
     <a href="https://facebook.com" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
     <a href="https://instagram.com" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
@@ -53,7 +53,7 @@
     </a>
   </p>
 
-## <p align="center">🕰️ Last Update</p>
+## <h2 align="center">🕰️ Last Update</h2>
 July 17, 2026
 
-# <p align="center">❤️ Made with Love ❤️</p>
+# <h2 align="center">❤️ Made with Love ❤️</h2>
