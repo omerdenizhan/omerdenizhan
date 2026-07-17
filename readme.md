@@ -23,7 +23,13 @@ I work on new projects whenever I get the chance
 
 ## 📊 GitHub Stats
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false" alt="Current Streaks"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
+    <img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false" alt="Current Streaks">
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
   </p>
 
 ## 🌐 Socials
