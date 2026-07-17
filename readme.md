@@ -35,10 +35,12 @@
 
 ##  
 <h2 align="center">📊 GitHub Stats</h2>
-
-![](https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <p align="center">
+    <img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="asfasf">
+    <img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false" alt="asfasf">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="asfasf">
+    </a>
+  </p>
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com "Facebook")
