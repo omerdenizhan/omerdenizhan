@@ -4,7 +4,7 @@
   </p>
 
 ## <h2 align="center">💫 About Me</h2>
-  <p align="center">I work on new projects whenever I get the chance</p>
+  <p align="center">I update my current projects and work on new projects whenever I get the chance</p>
 
 ## <h2 align="center">⚙️ Projects</h2>
   <p align="center">
