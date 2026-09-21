@@ -9,7 +9,7 @@
 
   <!-- Visitor Counter: Premium Gradient Badge -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e293b&height=180&section=header&text=Ömer%20Denizhan&fontSize=40&desc=Welcome%20to%20my%20profile!&descSize=20" alt="Header" />
+  <img src="https://profile-counter.glitch.me/omerdenizhan/count.svg" alt="Digital Visitor Counter" height="85" />
 </p>
 
   <br><br>
