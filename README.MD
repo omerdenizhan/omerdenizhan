@@ -1,42 +1,41 @@
 <div align="center">
 
-  <!-- Header Banner: Glassmorphic Gradient Wave -->
+<!-- Header Banner: Glassmorphic Gradient Wave -->
   <a href="#!">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=👋%20Hi,%20I'm%20Ömer%20👋&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
   </a>
 
-  <br>
+<br>
 
-  <!-- Visitor Counter: Premium Gradient Badge -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=%E2%96%B6%20COUNTER%20&left_color=18181b&right_color=f97316" alt="Digital Counter" height="60" />
-</p>
+<!-- Visitor Counter: Premium Gradient Badge -->
+  <a href="#!"><img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
+  </p>
 
-  <br><br>
+<br><br>
 
-  <!-- Section: About Me -->
+<!-- Section: About Me -->
   <a href="#!">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10,20,30&height=50&text=💫%20ABOUT%20ME&fontSize=20&fontColor=ffffff" width="100%" />
   </a>
 
-  <br><br>
+<br><br>
 
-  <p align="center">
-    I am a peaceful person who does no harm to anyone, is married, happy and has children.<br>
-    All of my work is for hobby purposes and I do not have a commercial purpose.<br>
-    I update my current projects and work on new projects whenever I get the chance.
-  </p>
+<p align="center">
+  I am a peaceful person who does no harm to anyone, is married, happy and has children.<br>
+  All of my work is for hobby purposes and I do not have a commercial purpose.<br>
+  I update my current projects and work on new projects whenever I get the chance.
+</p>
 
-  <br><br>
+<br><br>
 
-  <!-- Section: Projects -->
+<!-- Section: Projects -->
   <a href="#!">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=20,30,40&height=50&text=⚙️%20PROJECTS&fontSize=20&fontColor=ffffff" width="100%" />
   </a>
 
-  <br><br>
+<br><br>
 
-  <!-- Equal Dimension Project Cards Table -->
+<!-- Equal Dimension Project Cards Table -->
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
       <td align="center" width="50%" style="padding: 5px;">
@@ -156,7 +155,7 @@
 
   <br><br>
 
-  <!-- Footer Banner -->
+<!-- Footer Banner -->
   <a href="#!">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,10,2,0&height=120&section=footer&text=Last%20Update:%20Sept%2021,%202026%20%E2%80%A2%20Made%20with%20%E2%9D%A4%EF%B8%8F&fontSize=16" width="100%" />
   </a>
