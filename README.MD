@@ -58,7 +58,7 @@
 
   <br><br>
 
-  <!-- Main Repositories Grid -->
+  <!-- All Repositories Grid (Same Card Sizes) -->
   <p align="center">
     <a href="https://github.com/omerdenizhan/Site360Pro">
       <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Site360Pro&theme=radical&show_owner=false&border_radius=10" />
@@ -67,6 +67,7 @@
       <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kisisel-Finans-Yonetimi&theme=radical&show_owner=false&border_radius=10" />
     </a>
   </p>
+  
   <p align="center">
     <a href="https://github.com/omerdenizhan/Kredi-Taksit-Takip-Sistemi">
       <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kredi-Taksit-Takip-Sistemi&theme=radical&show_owner=false&border_radius=10" />
@@ -76,14 +77,27 @@
     </a>
   </p>
 
-  <!-- Secondary Repositories -->
   <p align="center">
-    <a href="https://github.com/omerdenizhan/IPTV-M3U"><img src="https://img.shields.io/badge/IPTV__M3U-8B5CF6?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://github.com/omerdenizhan/batch-scripts"><img src="https://img.shields.io/badge/Batch__Scripts-EC4899?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors"><img src="https://img.shields.io/badge/Dark__Cursors-3B82F6?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://github.com/omerdenizhan/win-reg-compilations"><img src="https://img.shields.io/badge/Regedit__Compilations-10B981?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/omerdenizhan/IPTV-M3U">
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U&theme=radical&show_owner=false&border_radius=10" />
+    </a>
+    <a href="https://github.com/omerdenizhan/batch-scripts">
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=batch-scripts&theme=radical&show_owner=false&border_radius=10" />
+    </a>
   </p>
 
+  <p align="center">
+    <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors">
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Material-Design-Dark-Cursors&theme=radical&show_owner=false&border_radius=10" />
+    </a>
+    <a href="https://github.com/omerdenizhan/win-reg-compilations">
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=win-reg-compilations&theme=radical&show_owner=false&border_radius=10" />
+    </a>
+  </p>
+
+  <br>
+
+  <!-- Live Demo Button -->
   <p align="center">
     <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor">
       <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-IPTV_M3U_Editor-FF4500?style=for-the-badge&logoColor=white">
