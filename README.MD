@@ -7,10 +7,10 @@
 
   <br>
 
-  <!-- Visitor Counter: Gradient SVG Badge -->
+  <!-- Visitor Counter: Guaranteed Shields.io Visual Badge -->
   <p align="center">
     <a href="#!">
-      <img src="https://hit.y2k.res.in/omerdenizhan/counter.svg?bg=0d1117&color=a855f7&title=Visitors&title_color=ffffff" alt="Visitor Counter" />
+      <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fomerdenizhan%2Fomerdenizhan.json%3Fshow%3Dpageviews&style=for-the-badge&color=8b5cf6&label=VISITORS&labelColor=0d1117&logo=github&logoColor=ffffff" alt="Visitors" />
     </a>
   </p>
 
@@ -162,5 +162,4 @@
   <a href="#!">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,10,2,0&height=120&section=footer&text=Last%20Update:%20Sept%2021,%202026%20%E2%80%A2%20Made%20with%20%E2%9D%A4%EF%B8%8F&fontSize=16" width="100%" />
   </a>
-
 </div>
