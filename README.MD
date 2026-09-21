@@ -8,11 +8,12 @@
   <br>
 
   <!-- Visitor Counter: Premium Gradient Badge -->
-  <p align="center">
-    <a href="#!">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=%F0%9F%91%81%EF%B8%8F%20TOTAL%20VIEWS&color=06b6d4&labelColor=1e1b4b&style=for-the-badge" height="42" alt="Visitors">
-    </a>
-  </p>
+<div align="center">
+  <a href="#!">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=70&text=👀%20TOTAL%20VISITORS&fontSize=24&fontColor=ffffff&stroke=8b5cf6&strokeWidth=2" height="65" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=&color=8b5cf6&style=for-the-badge" height="65" />
+  </a>
+</div>
 
   <br><br>
 
