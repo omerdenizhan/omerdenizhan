@@ -8,9 +8,9 @@
   <br>
 
   <!-- Visitor Counter: Premium Gradient Badge -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/omerdenizhan/count.svg" alt="Digital Visitor Counter" height="85" />
-</p>
+  <p align="center">
+    <a href="#!"><img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors" height="200">
+  </p>
 
   <br><br>
 
