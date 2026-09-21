@@ -9,13 +9,12 @@
 
   <!-- Visitor Counter: Premium Gradient Badge -->
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="1" cellpadding="20" cellspacing="0">
     <tr>
-      <td align="center" style="background-color: #0d1117; padding: 15px 25px; border-radius: 12px; border: 1px solid #8b5cf6;">
-        <span style="font-size: 16px; font-weight: bold; color: #ffffff;">👀 TOTAL PROFILE VISITORS</span>
-        <br><br>
+      <td align="center">
+        <h2>👀 TOTAL PROFILE VISITORS</h2>
         <a href="#!">
-          <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=&color=8b5cf6&style=for-the-badge" height="40" />
+          <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=&color=8b5cf6&style=for-the-badge" height="50" alt="Visitors" />
         </a>
       </td>
     </tr>
