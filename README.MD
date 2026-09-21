@@ -156,8 +156,10 @@
 <br><br>
 
 <!-- Footer Banner -->
-  <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,10,2,0&height=120&section=footer&text=Last%20Update:%20Sept%2021,%202026%20%E2%80%A2%20Made%20with%20%E2%9D%A4%EF%B8%8F&fontSize=16" width="100%" />
-  </a>
+  <div align="center">
+    <a href="#!">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,10,2,0&height=120&section=footer&text=Last+Update:+Sept+21,+2026+•+Made+with+❤️&fontSize=16" width="100%" />
+    </a>
+  </div>
 
 </div>
