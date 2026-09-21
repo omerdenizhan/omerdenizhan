@@ -87,63 +87,63 @@
     </tr>
   </table>
 
-  <br><br>
+<br><br>
 
-  <!-- Section: Projects Web Pages -->
+<!-- Section: Projects Web Pages -->
   <a href="#!">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=22,32,42&height=50&text=⚙️%20PROJECTS%20WEB%20PAGES&fontSize=20&fontColor=ffffff" width="100%" />
   </a>
 
-  <br><br>
+<br><br>
 
-  <!-- Same Dimension Web Page Card -->
+<!-- Same Dimension Web Page Card -->
   <p align="center">
     <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor">
       <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U-Editor&theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="IPTV M3U Editor Web Page" />
     </a>
   </p>
 
-  <br><br>
+<br><br>
 
-  <!-- Section: Tech Stack -->
+<!-- Section: Tech Stack -->
   <a href="#!">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=15,25,35&height=50&text=💻%20TECH%20STACK&fontSize=20&fontColor=ffffff" width="100%" />
   </a>
 
-  <br><br>
+<br><br>
 
-  <!-- Visual Tech Stack Icons -->
+<!-- Visual Tech Stack Icons -->
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,tailwind,css,js,python,php,kotlin&theme=dark" alt="Tech Stack" />
     </a>
   </p>
 
-  <br><br>
+<br><br>
 
-  <!-- Section: GitHub Stats -->
+<!-- Section: GitHub Stats -->
   <a href="#!">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=25,35,45&height=50&text=📊%20GITHUB%20STATS&fontSize=20&fontColor=ffffff" width="100%" />
   </a>
 
-  <br><br>
+<br><br>
 
-  <p align="center">
-    <a href="#!"><img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&border_radius=10" alt="GitHub Stats"></a><br><br>
-    <a href="#!"><img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=radical&hide_border=false&border_radius=10" alt="Current Streaks"></a><br><br>
-    <a href="#!"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=10" alt="Most Used Languages"></a>
-  </p>
+<p align="center">
+  <a href="#!"><img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&border_radius=10" alt="GitHub Stats"></a><br><br>
+  <a href="#!"><img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=radical&hide_border=false&border_radius=10" alt="Current Streaks"></a><br><br>
+  <a href="#!"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=10" alt="Most Used Languages"></a>
+</p>
 
-  <br><br>
+<br><br>
 
-  <!-- Section: Socials -->
+<!-- Section: Socials -->
   <a href="#!">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=30,40,50&height=50&text=🌐%20SOCIALS&fontSize=20&fontColor=ffffff" width="100%" />
   </a>
 
-  <br><br>
+<br><br>
 
-  <!-- Visual Large Social Badges -->
+<!-- Visual Large Social Badges -->
   <p align="center">
     <a href="https://facebook.com/dnzhn77" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
     <a href="https://instagram.com/dnzhn.77" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -153,7 +153,7 @@
     <a href="mailto:omer_denizhan@msn.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
-  <br><br>
+<br><br>
 
 <!-- Footer Banner -->
   <a href="#!">
