@@ -2,16 +2,15 @@
 
   <!-- Header Banner: Glassmorphism Gradient Wave -->
   <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=👋%20Ömer%20Denizhan&fontSize=42&desc=Creative%20Hobbyist%20%7C%20Developer&descSize=18&fontColor=ffffff&animation=twinkle" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=👋%20Hi,%20I'm%20Ömer%20👋&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
   </a>
 
   <br>
 
-  <!-- Visitor Pill & Status -->
+  <!-- Visitor Badge -->
   <p align="center">
     <a href="#!">
-      <img src="https://img.shields.io/badge/STATUS-Active%20%26%20Building-10B981?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=VISITORS&color=8B5CF6" alt="Visitors" />
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors" />
     </a>
   </p>
 
@@ -24,123 +23,130 @@
 
   <br><br>
 
-  <table width="100%">
-    <tr>
-      <td align="center" style="background: #0d1117; padding: 20px; border-radius: 12px;">
-        <p>🌿 <b>A peaceful person who does no harm to anyone, is married, happy and has children.</b></p>
-        <p>🎨 <i>All of my work is for hobby purposes and I do not have a commercial purpose.</i></p>
-        <p>⚡ <sub>I update my current projects and work on new projects whenever I get the chance.</sub></p>
-      </td>
-    </tr>
-  </table>
-
-  <br><br>
-
-  <!-- Section: Tech Stack -->
-  <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=15,25,35&height=50&text=💻%20TECH%20%26%20TOOLS&fontSize=20&fontColor=ffffff" width="100%" />
-  </a>
-
-  <br><br>
-
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,php,kotlin,github,vscode,windows&perline=5&theme=dark" />
-    </a>
+    I am a peaceful person who does no harm to anyone, is married, happy and has children.<br>
+    All of my work is for hobby purposes and I do not have a commercial purpose.<br>
+    I update my current projects and work on new projects whenever I get the chance.
   </p>
 
   <br><br>
 
-  <!-- Section: Featured Projects -->
+  <!-- Section: Projects -->
   <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=20,30,40&height=50&text=⚙️%20FEATURED%20PROJECTS&fontSize=20&fontColor=ffffff" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=20,30,40&height=50&text=⚙️%20PROJECTS&fontSize=20&fontColor=ffffff" width="100%" />
   </a>
 
   <br><br>
 
-  <!-- All Repositories Grid (Same Card Sizes) -->
+  <!-- All 8 Repositories in Equal Size Cards -->
   <p align="center">
     <a href="https://github.com/omerdenizhan/Site360Pro">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Site360Pro&theme=radical&show_owner=false&border_radius=10" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Site360Pro&theme=radical&show_owner=false&border_radius=10" alt="Site360Pro" />
     </a>
     <a href="https://github.com/omerdenizhan/Kisisel-Finans-Yonetimi">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kisisel-Finans-Yonetimi&theme=radical&show_owner=false&border_radius=10" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kisisel-Finans-Yonetimi&theme=radical&show_owner=false&border_radius=10" alt="Kişisel Finans Yönetimi" />
     </a>
   </p>
-  
+
   <p align="center">
     <a href="https://github.com/omerdenizhan/Kredi-Taksit-Takip-Sistemi">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kredi-Taksit-Takip-Sistemi&theme=radical&show_owner=false&border_radius=10" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kredi-Taksit-Takip-Sistemi&theme=radical&show_owner=false&border_radius=10" alt="Kredi Taksit Takip Sistemi" />
     </a>
     <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U-Editor&theme=radical&show_owner=false&border_radius=10" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U-Editor&theme=radical&show_owner=false&border_radius=10" alt="IPTV M3U Editor" />
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/omerdenizhan/IPTV-M3U">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U&theme=radical&show_owner=false&border_radius=10" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U&theme=radical&show_owner=false&border_radius=10" alt="IPTV M3U" />
     </a>
     <a href="https://github.com/omerdenizhan/batch-scripts">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=batch-scripts&theme=radical&show_owner=false&border_radius=10" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=batch-scripts&theme=radical&show_owner=false&border_radius=10" alt="Batch Scripts" />
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Material-Design-Dark-Cursors&theme=radical&show_owner=false&border_radius=10" />
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Material-Design-Dark-Cursors&theme=radical&show_owner=false&border_radius=10" alt="Material Design Dark Cursors" />
     </a>
     <a href="https://github.com/omerdenizhan/win-reg-compilations">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=win-reg-compilations&theme=radical&show_owner=false&border_radius=10" />
-    </a>
-  </p>
-
-  <br>
-
-  <!-- Live Demo Button -->
-  <p align="center">
-    <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor">
-      <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-IPTV_M3U_Editor-FF4500?style=for-the-badge&logoColor=white">
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=win-reg-compilations&theme=radical&show_owner=false&border_radius=10" alt="Regedit Compilations" />
     </a>
   </p>
 
   <br><br>
 
-  <!-- Section: Analytics -->
+  <!-- Section: Projects Web Pages -->
   <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=25,35,45&height=50&text=📊%20ANALYTICS&fontSize=20&fontColor=ffffff" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=22,32,42&height=50&text=⚙️%20PROJECTS%20WEB%20PAGES&fontSize=20&fontColor=ffffff" width="100%" />
   </a>
 
   <br><br>
 
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=radical&show_icons=true&hide_border=false&border_radius=10" />
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=radical&layout=compact&hide_border=false&border_radius=10" />
+    <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor">
+      <img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub" alt="IPTV M3U Editor Web Page">
+    </a>
+  </p>
+
+  <br><br>
+
+  <!-- Section: Tech Stack -->
+  <a href="#!">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=15,25,35&height=50&text=💻%20TECH%20STACK&fontSize=20&fontColor=ffffff" width="100%" />
+  </a>
+
+  <br><br>
+
+  <p align="center">
+    <a href="#!"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+    <a href="#!"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+    <a href="#!"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+    <a href="#!"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+    <a href="#!"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+    <a href="#!"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
+    <a href="#!"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+  </p>
+
+  <br><br>
+
+  <!-- Section: GitHub Stats -->
+  <a href="#!">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=25,35,45&height=50&text=📊%20GITHUB%20STATS&fontSize=20&fontColor=ffffff" width="100%" />
+  </a>
+
+  <br><br>
+
+  <p align="center">
+    <a href="#!"><img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"></a><br><br>
+    <a href="#!"><img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false" alt="Current Streaks"></a><br><br>
+    <a href="#!"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"></a>
   </p>
 
   <br><br>
 
   <!-- Section: Socials -->
   <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=30,40,50&height=50&text=🌐%20CONNECT%20WITH%20ME&fontSize=20&fontColor=ffffff" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=30,40,50&height=50&text=🌐%20SOCIALS&fontSize=20&fontColor=ffffff" width="100%" />
   </a>
 
   <br><br>
 
   <p align="center">
-    <a href="https://facebook.com/dnzhn77"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://instagram.com/dnzhn.77"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://x.com/dnzhn_77"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-    <a href="https://t.me/dnzhn77"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://reddit.com/denizhan77"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-    <a href="mailto:omer_denizhan@msn.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://facebook.com/dnzhn77" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+    <a href="https://instagram.com/dnzhn.77" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://x.com/dnzhn_77" title="X (Old Twitter)"><img src="https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter/X"></a>
+    <a href="https://t.me/dnzhn77" title="Telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://reddit.com/denizhan77" title="Reddit"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
+    <a href="mailto:omer_denizhan@msn.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
   <br><br>
 
-  <!-- Footer Banner -->
+  <!-- Footer Banner: Last Update & Made with Love -->
   <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,10,2,0&height=100&section=footer&text=Last%20Update:%20Sept%2021,%202026%20%E2%80%A2%20Made%20with%20%E2%9D%A4%EF%B8%8F&fontSize=16" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,10,2,0&height=120&section=footer&text=Last%20Update:%20Sept%2021,%202026%20%E2%80%A2%20Made%20with%20%E2%9D%A4%EF%B8%8F&fontSize=16" width="100%" />
   </a>
 
 </div>
