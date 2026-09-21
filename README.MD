@@ -38,42 +38,57 @@
 
   <br><br>
 
-  <!-- All 8 Repositories in Equal Size Cards -->
-  <p align="center">
-    <a href="https://github.com/omerdenizhan/Site360Pro">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Site360Pro&theme=radical&show_owner=false&border_radius=10" alt="Site360Pro" />
-    </a>
-    <a href="https://github.com/omerdenizhan/Kisisel-Finans-Yonetimi">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kisisel-Finans-Yonetimi&theme=radical&show_owner=false&border_radius=10" alt="Kişisel Finans Yönetimi" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/omerdenizhan/Kredi-Taksit-Takip-Sistemi">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kredi-Taksit-Takip-Sistemi&theme=radical&show_owner=false&border_radius=10" alt="Kredi Taksit Takip Sistemi" />
-    </a>
-    <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U-Editor&theme=radical&show_owner=false&border_radius=10" alt="IPTV M3U Editor" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/omerdenizhan/IPTV-M3U">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U&theme=radical&show_owner=false&border_radius=10" alt="IPTV M3U" />
-    </a>
-    <a href="https://github.com/omerdenizhan/batch-scripts">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=batch-scripts&theme=radical&show_owner=false&border_radius=10" alt="Batch Scripts" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Material-Design-Dark-Cursors&theme=radical&show_owner=false&border_radius=10" alt="Material Design Dark Cursors" />
-    </a>
-    <a href="https://github.com/omerdenizhan/win-reg-compilations">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=win-reg-compilations&theme=radical&show_owner=false&border_radius=10" alt="Regedit Compilations" />
-    </a>
-  </p>
+  <!-- Equal Dimension Project Cards Table -->
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" width="50%" style="padding: 5px;">
+        <a href="https://github.com/omerdenizhan/Site360Pro">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Site360Pro&theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="Site360Pro" />
+        </a>
+      </td>
+      <td align="center" width="50%" style="padding: 5px;">
+        <a href="https://github.com/omerdenizhan/Kisisel-Finans-Yonetimi">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kisisel-Finans-Yonetimi&theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="Kişisel Finans Yönetimi" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="padding: 5px;">
+        <a href="https://github.com/omerdenizhan/Kredi-Taksit-Takip-Sistemi">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kredi-Taksit-Takip-Sistemi&theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="Kredi Taksit Takip Sistemi" />
+        </a>
+      </td>
+      <td align="center" width="50%" style="padding: 5px;">
+        <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U-Editor&theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="IPTV M3U Editor" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="padding: 5px;">
+        <a href="https://github.com/omerdenizhan/IPTV-M3U">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U&theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="IPTV M3U" />
+        </a>
+      </td>
+      <td align="center" width="50%" style="padding: 5px;">
+        <a href="https://github.com/omerdenizhan/batch-scripts">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=batch-scripts&theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="Batch Scripts" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="padding: 5px;">
+        <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Material-Design-Dark-Cursors&theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="Material Design Dark Cursors" />
+        </a>
+      </td>
+      <td align="center" width="50%" style="padding: 5px;">
+        <a href="https://github.com/omerdenizhan/win-reg-compilations">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=win-reg-compilations&theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="Regedit Compilations" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br><br>
 
@@ -144,7 +159,7 @@
 
   <br><br>
 
-  <!-- Footer Banner: Last Update & Made with Love -->
+  <!-- Footer Banner -->
   <a href="#!">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,10,2,0&height=120&section=footer&text=Last%20Update:%20Sept%2021,%202026%20%E2%80%A2%20Made%20with%20%E2%9D%A4%EF%B8%8F&fontSize=16" width="100%" />
   </a>
