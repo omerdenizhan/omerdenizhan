@@ -39,11 +39,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
   <p align="center">
     <img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  </p>
-  <p align="center">
     <img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false" alt="Current Streaks">
-  </p>
-  <p align="center">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
   </p>
 
