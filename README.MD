@@ -7,10 +7,10 @@
 
   <br>
 
-  <!-- Visitor Badge (Visual Badge) -->
+  <!-- Visitor Counter: Animated Neon Card -->
   <p align="center">
     <a href="#!">
-      <img src="https://img.shields.io/badge/dynamic/json?color=8B5CF6&label=VISITORS&query=%24.value&url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3Domerdenizhan&style=for-the-badge&logo=github&logoColor=white" alt="Visitors" />
+      <img src="https://profile-counter.glitch.me/omerdenizhan/count.svg" alt="Visitor Counter" />
     </a>
   </p>
 
