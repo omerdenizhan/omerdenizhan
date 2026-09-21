@@ -7,10 +7,10 @@
 
   <br>
 
-  <!-- Visitor Counter: Animated Neon Card -->
+  <!-- Visitor Counter: Gradient SVG Badge -->
   <p align="center">
     <a href="#!">
-      <img src="https://profile-counter.glitch.me/omerdenizhan/count.svg" alt="Visitor Counter" />
+      <img src="https://hit.y2k.res.in/omerdenizhan/counter.svg?bg=0d1117&color=a855f7&title=Visitors&title_color=ffffff" alt="Visitor Counter" />
     </a>
   </p>
 
