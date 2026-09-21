@@ -9,7 +9,7 @@
 
   <!-- Visitor Counter: Premium Gradient Badge -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=DIGITAL%20COUNTER%20%5B%20TOTAL%20%5D&left_color=000000&right_color=00ff66" alt="Digital Counter" height="55" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=%E2%96%B6%20COUNTER%20&left_color=18181b&right_color=f97316" alt="Digital Counter" height="60" />
 </p>
 
   <br><br>
