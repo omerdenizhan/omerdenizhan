@@ -9,9 +9,7 @@
 
   <!-- Visitor Counter: Premium Gradient Badge -->
   <p align="center">
-    <a href="https://github.com/omerdenizhan">
-      <img src="https://img.shields.io/endpoint?url=https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&style=for-the-badge&labelColor=1e293b&color=10b981&logo=github" alt="Visitors" height="45" />
-    </a>
+    <img src="https://profile-counter.glitch.me/omerdenizhan/count.svg" alt="Visitors" height="60" />
   </p>
 
   <br><br>
