@@ -1,15 +1,25 @@
-<h1 align="center">👋Hi, I'm Ömer 👋</h1>
-  <p align="center">
-    <a href="#!"><img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
-  </p>
+<div style="max-width: 800px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
 
-<h2 align="center">💫 About Me</h2>
-  <p align="center">I am a peaceful person who does no harm to anyone, is married, happy and has children.</p>
-  <p align="center">All of my work is for hobby purposes and I do not have a commercial purpose.</p>
-  <p align="center">I update my current projects and work on new projects whenever I get the chance.</p>
+  <!-- Header Card -->
+  <div style="background: #ffffff; border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); text-align: center;">
+    <h1 style="margin-top: 0; color: #24292e;">👋 Hi, I'm Ömer 👋</h1>
+    <p style="margin-bottom: 0;">
+      <a href="#!"><img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors"></a>
+    </p>
+  </div>
 
-<h2 align="center">⚙️ Projects</h2>
-  <p align="center">
+  <!-- About Me Card -->
+  <div style="background: #ffffff; border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); text-align: center;">
+    <h2 style="margin-top: 0; color: #0366d6;">💫 About Me</h2>
+    <p style="color: #586069; margin: 8px 0;">I am a peaceful person who does no harm to anyone, is married, happy and has children.</p>
+    <p style="color: #586069; margin: 8px 0;">All of my work is for hobby purposes and I do not have a commercial purpose.</p>
+    <p style="color: #586069; margin-bottom: 0;">I update my current projects and work on new projects whenever I get the chance.</p>
+  </div>
+
+  <!-- Projects Card -->
+  <div style="background: #ffffff; border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); text-align: center;">
+    <h2 style="margin-top: 0; color: #0366d6;">⚙️ Projects</h2>
+    <p style="margin-bottom: 0;">
       <a href="https://github.com/omerdenizhan/Site360Pro" title="Site360Pro"><img src="https://img.shields.io/badge/Repo-Site360Pro-red?style=flat-square&logo=GitHub"></a>
       <a href="https://github.com/omerdenizhan/Kisisel-Finans-Yonetimi" title="Kişisel Finans Yönetimi"><img src="https://img.shields.io/badge/Repo-Kisisel_Finans_Yonetimi-red?style=flat-square&logo=GitHub"></a>
       <a href="https://github.com/omerdenizhan/Kredi-Taksit-Takip-Sistemi" title="Kredi & Taksit Takip Sistemi"><img src="https://img.shields.io/badge/Repo-Kredi_Taksit_Takip_Sistemi-red?style=flat-square&logo=GitHub"></a>
@@ -18,42 +28,64 @@
       <a href="https://github.com/omerdenizhan/batch-scripts" title="Batch Scripts"><img src="https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub"></a>
       <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors" title="Material Design Dark Cursors"><img src="https://img.shields.io/badge/Repo-Material_Design_Dark_Cursors-red?style=flat-square&logo=GitHub"></a>
       <a href="https://github.com/omerdenizhan/win-reg-compilations" title="Regedit Compilations"><img src="https://img.shields.io/badge/Repo-Regedit_Compilations-red?style=flat-square&logo=GitHub"></a>
-  </p>
+    </p>
+  </div>
 
-<h2 align="center">⚙️ Projects Web Pages</h2>
-  <p align="center">
-    <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub"></a>
-  </p>
+  <!-- Projects Web Pages Card -->
+  <div style="background: #ffffff; border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); text-align: center;">
+    <h2 style="margin-top: 0; color: #0366d6;">⚙️ Projects Web Pages</h2>
+    <p style="margin-bottom: 0;">
+      <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub"></a>
+    </p>
+  </div>
 
-<h2 align="center">💻 Tech Stack</h2>
-  <p align="center">
-    <a href="#!"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
-  </p>
+  <!-- Tech Stack Card -->
+  <div style="background: #ffffff; border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); text-align: center;">
+    <h2 style="margin-top: 0; color: #0366d6;">💻 Tech Stack</h2>
+    <p style="margin-bottom: 0;">
+      <a href="#!"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+      <a href="#!"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+      <a href="#!"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+      <a href="#!"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+      <a href="#!"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+      <a href="#!"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
+      <a href="#!"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+    </p>
+  </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-  <p align="center">
-    <a href="#!"><img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"></a>
-    <a href="#!"><img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false" alt="Current Streaks"></a>
-    <a href="#!"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"></a>
-  </p>
+  <!-- GitHub Stats Card -->
+  <div style="background: #ffffff; border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); text-align: center;">
+    <h2 style="margin-top: 0; color: #0366d6;">📊 GitHub Stats</h2>
+    <p style="margin-bottom: 0;">
+      <a href="#!"><img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"></a>
+      <a href="#!"><img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false" alt="Current Streaks"></a>
+      <a href="#!"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"></a>
+    </p>
+  </div>
 
-<h2 align="center">🌐 Socials</h2>
-  <p align="center">
-    <a href="https://facebook.com/dnzhn77" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
-    <a href="https://instagram.com/dnzhn.77" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-    <a href="https://x.com/dnzhn_77" title="X (Old Twitter)"><img src="https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white"></a>
-    <a href="https://t.me/dnzhn77" title="Telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
-    <a href="https://reddit.com/denizhan77" title="Reddit"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"></a>
-    <a href="mailto:omer_denizhan@msn.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  </p>
+  <!-- Socials Card -->
+  <div style="background: #ffffff; border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); text-align: center;">
+    <h2 style="margin-top: 0; color: #0366d6;">🌐 Socials</h2>
+    <p style="margin-bottom: 0;">
+      <a href="https://facebook.com/dnzhn77" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+      <a href="https://instagram.com/dnzhn.77" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+      <a href="https://x.com/dnzhn_77" title="X (Old Twitter)"><img src="https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white"></a>
+      <a href="https://t.me/dnzhn77" title="Telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
+      <a href="https://reddit.com/denizhan77" title="Reddit"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"></a>
+      <a href="mailto:omer_denizhan@msn.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+    </p>
+  </div>
 
-<h2 align="center">🕰️ Last Update</h2>
-  <p align="center">Sept 21, 2026</p>
+  <!-- Last Update Card -->
+  <div style="background: #ffffff; border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); text-align: center;">
+    <h2 style="margin-top: 0; color: #0366d6;">🕰️ Last Update</h2>
+    <p style="margin-bottom: 0; color: #586069;">Sept 21, 2026</p>
+  </div>
 
-<h2 align="center">❤️ Made with Love ❤️</h2>
+  <!-- Footer Card -->
+  <div style="background: #ffffff; border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); text-align: center;">
+    <h2 style="margin: 0; color: #e25555;">❤️ Made with Love ❤️</h2>
+  </div>
+
+</div>
+
