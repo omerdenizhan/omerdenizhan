@@ -8,13 +8,19 @@
   <br>
 
   <!-- Visitor Counter: Premium Gradient Badge -->
-<p align="center">
-  <a href="#!">
-    <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-VISITORS-1e1b4b?style=for-the-badge&logo=github&logoColor=a855f7" height="48" />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=&color=a855f7&style=for-the-badge" height="48" />
-    <img src="https://img.shields.io/badge/STATS-LIVE-1e1b4b?style=for-the-badge&logoColor=a855f7" height="48" />
-  </a>
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="background-color: #0d1117; padding: 15px 25px; border-radius: 12px; border: 1px solid #8b5cf6;">
+        <span style="font-size: 16px; font-weight: bold; color: #ffffff;">👀 TOTAL PROFILE VISITORS</span>
+        <br><br>
+        <a href="#!">
+          <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=&color=8b5cf6&style=for-the-badge" height="40" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
   <br><br>
 
