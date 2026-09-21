@@ -10,6 +10,7 @@
 
 <h2 align="center">⚙️ Projects</h2>
   <p align="center">
+    <a href="https://github.com/omerdenizhan/Kredi-Taksit-Takip-Sistemi" title="Kredi & Taksit Takip Sistemi"><img src="https://img.shields.io/badge/Repo-Kredi_Taksit_Takip_Sistemi-red?style=flat-square&logo=GitHub">
     <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor" title="IPTV M3U Editor"><img src="https://img.shields.io/badge/Repo-IPTV_M3U_Editor-red?style=flat-square&logo=GitHub">
     <a href="https://github.com/omerdenizhan/IPTV-M3U" title="IPTV M3U"><img src="https://img.shields.io/badge/Repo-IPTV_M3U-red?style=flat-square&logo=GitHub">
     <a href="https://github.com/omerdenizhan/batch-scripts" title="Batch Scripts"><img src="https://img.shields.io/badge/Repo-Batch_Scripts-red?style=flat-square&logo=GitHub">
