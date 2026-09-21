@@ -8,18 +8,9 @@
   <br>
 
   <!-- Visitor Counter: Premium Gradient Badge -->
-<div align="center">
-  <table border="1" cellpadding="20" cellspacing="0">
-    <tr>
-      <td align="center">
-        <h2>👀 TOTAL PROFILE VISITORS</h2>
-        <a href="#!">
-          <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan" height="150" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+  <p align="center">
+    ![Visitors](https://img.shields.io/badge/dynamic/json?color=4169E1&label=Ziyaret%C3%A7iler&query=%24.page_views&url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3Domerdenizhan&style=for-the-badge&logo=github)
+  </p>
 
   <br><br>
 
