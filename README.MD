@@ -14,7 +14,7 @@
       <td align="center">
         <h2>👀 TOTAL PROFILE VISITORS</h2>
         <a href="#!">
-          <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan" height="100" />
+          <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan" height="150" />
         </a>
       </td>
     </tr>
