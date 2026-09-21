@@ -10,7 +10,9 @@
   <!-- Visitor Counter: Premium Gradient Badge -->
 <p align="center">
   <a href="#!">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=%F0%9F%9A%80%20TOTAL%20VISITORS&color=ec4899&labelColor=0f172a&style=for-the-badge" height="60" alt="Visitors" />
+    <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F-VISITORS-1e1b4b?style=for-the-badge&logo=github&logoColor=a855f7" height="48" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=&color=a855f7&style=for-the-badge" height="48" />
+    <img src="https://img.shields.io/badge/STATS-LIVE-1e1b4b?style=for-the-badge&logoColor=a855f7" height="48" />
   </a>
 </p>
 
