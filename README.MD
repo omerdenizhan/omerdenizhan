@@ -7,10 +7,10 @@
 
   <br>
 
-  <!-- Visitor Badge -->
+  <!-- Visitor Badge (Visual Badge) -->
   <p align="center">
     <a href="#!">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors" />
+      <img src="https://img.shields.io/badge/dynamic/json?color=8B5CF6&label=VISITORS&query=%24.value&url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3Domerdenizhan&style=for-the-badge&logo=github&logoColor=white" alt="Visitors" />
     </a>
   </p>
 
@@ -115,14 +115,11 @@
 
   <br><br>
 
+  <!-- Visual Tech Stack Icons -->
   <p align="center">
-    <a href="#!"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
-    <a href="#!"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,tailwind,css,js,python,php,kotlin&theme=dark" alt="Tech Stack" />
+    </a>
   </p>
 
   <br><br>
@@ -135,9 +132,9 @@
   <br><br>
 
   <p align="center">
-    <a href="#!"><img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"></a><br><br>
-    <a href="#!"><img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false" alt="Current Streaks"></a><br><br>
-    <a href="#!"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"></a>
+    <a href="#!"><img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&border_radius=10" alt="GitHub Stats"></a><br><br>
+    <a href="#!"><img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=radical&hide_border=false&border_radius=10" alt="Current Streaks"></a><br><br>
+    <a href="#!"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=10" alt="Most Used Languages"></a>
   </p>
 
   <br><br>
@@ -149,13 +146,14 @@
 
   <br><br>
 
+  <!-- Visual Large Social Badges -->
   <p align="center">
-    <a href="https://facebook.com/dnzhn77" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-    <a href="https://instagram.com/dnzhn.77" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://x.com/dnzhn_77" title="X (Old Twitter)"><img src="https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter/X"></a>
-    <a href="https://t.me/dnzhn77" title="Telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-    <a href="https://reddit.com/denizhan77" title="Reddit"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
-    <a href="mailto:omer_denizhan@msn.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://facebook.com/dnzhn77" title="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+    <a href="https://instagram.com/dnzhn.77" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://x.com/dnzhn_77" title="X (Old Twitter)"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"></a>
+    <a href="https://t.me/dnzhn77" title="Telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://reddit.com/denizhan77" title="Reddit"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+    <a href="mailto:omer_denizhan@msn.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
   <br><br>
