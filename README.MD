@@ -99,9 +99,10 @@
 
   <br><br>
 
+  <!-- Same Dimension Web Page Card -->
   <p align="center">
-    <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor" title="IPTV M3U Editor">
-      <img src="https://img.shields.io/badge/Web_Page-IPTV_M3U_Editor-blue?style=flat-square&logo=GitHub" alt="IPTV M3U Editor Web Page">
+    <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor">
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U-Editor&theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="IPTV M3U Editor Web Page" />
     </a>
   </p>
 
