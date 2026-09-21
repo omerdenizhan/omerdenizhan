@@ -10,9 +10,8 @@
   <!-- Visitor Counter: Premium Gradient Badge -->
   <p align="center">
     <a href="#!">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=60&section=header&text=👀%20VISITORS&fontSize=24&fontColor=ffffff" height="50" alt="Visitors Title" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=&color=a855f7&style=for-the-badge" height="50" alt="Visitors Count" />
-</a>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=60&section=header&text=👀%20VISITORS&fontSize=24&fontColor=ffffff" height="50" alt="Visitors Title" />
+    </a>
   </p>
 
   <br><br>
