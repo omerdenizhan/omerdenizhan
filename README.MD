@@ -1,15 +1,17 @@
 <div align="center">
 
-  <!-- Header Banner: Glassmorphism Gradient Wave -->
+  <!-- Header Banner: Glassmorphic Gradient Wave -->
   <a href="#!">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=👋%20Hi,%20I'm%20Ömer%20👋&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
   </a>
 
   <br>
 
-  <!-- Visitor Counter: Visual Neon Digital Counter -->
+  <!-- Visitor Counter: Premium Gradient Badge -->
   <p align="center">
-    <img src="https://count.getloli.com/get/@omerdenizhan?theme=rule34" alt="Visitors" />
+    <a href="#!">
+      <img src="https://img.shields.io/badge/dynamic/json?color=8b5cf6&label=PROFILE%20VISITS&labelColor=0d1117&query=%24.value&url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3Domerdenizhan&style=for-the-badge&logo=github&logoColor=ffffff" alt="Visitors" />
+    </a>
   </p>
 
   <br><br>
