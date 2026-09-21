@@ -10,7 +10,7 @@
   <!-- Visitor Counter: Premium Gradient Badge -->
   <p align="center">
     <a href="#!">
-      <img src="https://img.shields.io/badge/dynamic/json?color=8b5cf6&label=PROFILE%20VISITS&labelColor=0d1117&query=%24.value&url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3Domerdenizhan&style=for-the-badge&logo=github&logoColor=ffffff" alt="Visitors" />
+      src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
     </a>
   </p>
 
