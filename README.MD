@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi, I'm Ömer 👋</h1>
   <p align="center">
-    <img href="#!">src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
+    <a href="#!"><img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
   </p>
 
 <h2 align="center">💫 About Me</h2>
