@@ -8,9 +8,11 @@
   <br>
 
   <!-- Visitor Counter: Premium Gradient Badge -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors&left_color=1f2937&right_color=3b82f6" alt="Visitors" style="transform: scale(1.5); margin: 15px 0;" />
-</p>
+  <p align="center">
+    <a href="https://github.com/omerdenizhan">
+      <img src="https://img.shields.io/endpoint?url=https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&style=for-the-badge&labelColor=1e293b&color=10b981&logo=github" alt="Visitors" height="45" />
+    </a>
+  </p>
 
   <br><br>
 
