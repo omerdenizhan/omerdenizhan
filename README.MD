@@ -10,7 +10,7 @@
   <!-- Visitor Counter: Premium Gradient Badge -->
   <p align="center">
     <a href="#!">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=60&section=header&text=👀%20VISITORS&fontSize=24&fontColor=ffffff" height="50" alt="Visitors Title" />
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=PROFILE%20VISITS&color=ec4899&labelColor=0d1117&style=for-the-badge" height="42" alt="Visitors">
     </a>
   </p>
 
