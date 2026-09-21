@@ -9,9 +9,7 @@
 
   <!-- Visitor Counter: Premium Gradient Badge -->
   <p align="center">
-    <a href="#!">
-      src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
-    </a>
+    <a href="#!"><img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
   </p>
 
   <br><br>
