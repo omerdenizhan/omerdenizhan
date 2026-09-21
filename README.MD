@@ -38,15 +38,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
   <p align="center">
-    <object data="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" type="image/svg+xml">
-      <img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    </object>
-    <object data="https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false" type="image/svg+xml">
-      <img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false" alt="Current Streaks">
-    </object>
-    <object data="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" type="image/svg+xml">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
-    </object>
+    <a href="javascript:"><img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"></a>
+    <a href="javascript:"><img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=dark&hide_border=false" alt="Current Streaks"></a>
+    <a href="javascript:"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"></a>
   </p>
 
 <h2 align="center">🌐 Socials</h2>
