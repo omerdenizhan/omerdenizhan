@@ -161,5 +161,4 @@
       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,10,2,0&height=120&section=footer&text=Last+Update:+Oct+09,+2026+•+Made+with+❤️&fontSize=16" width="100%" />
     </a>
   </div>
-
 </div>
