@@ -39,7 +39,7 @@
     <tr>
         <td align="center" width="50%" style="padding: 5px;">
             <a href="https://github.com/omerdenizhan/Video-Downloader">
-                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Video-Downloader &theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="D-Tube Video Downloader"/>
+                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Video-Downloader&theme=radical&show_owner=false&border_radius=10&card_width=400&description_lines_count=1" alt="D-Tube Video Downloader"/>
             </a>
         </td>
         <td align="center" width="50%" style="padding: 5px;">
