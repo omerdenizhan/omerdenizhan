@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="92" viewBox="0 0 900 92">
+<defs>
+<clipPath id="o"><rect width="900" height="92" rx="30"/></clipPath>
+<clipPath id="p"><rect x="280" y="14" width="340" height="64" rx="32"/></clipPath>
+<filter id="bs" filterUnits="userSpaceOnUse" x="-120" y="-120" width="1140" height="332"><feGaussianBlur stdDeviation="11"/></filter>
+<filter id="bl" filterUnits="userSpaceOnUse" x="-120" y="-120" width="1140" height="332"><feGaussianBlur stdDeviation="34"/></filter>
+<filter id="nz" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .5 0"/></filter>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".85"/><stop offset=".45" stop-color="#fff" stop-opacity=".18"/><stop offset=".75" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity=".55"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".30"/><stop offset=".55" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity=".12"/></linearGradient>
+<linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff"/><stop offset=".55" stop-color="#e3d9ff"/><stop offset="1" stop-color="#b9f3ff"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<g clip-path="url(#o)">
+<rect width="900" height="92" fill="#0a0d1f"/>
+<g filter="url(#bs)"><circle cx="311" cy="27" r="42" fill="#7b4dff" opacity="0.95"/><circle cx="593" cy="73" r="43" fill="#ff4d8d" opacity="0.85"/><circle cx="451" cy="83" r="38" fill="#22d3ee" opacity="0.8"/><circle cx="579" cy="8" r="48" fill="#ffb84d" opacity="0.55"/><circle cx="305" cy="78" r="37" fill="#5b8cff" opacity="0.7"/></g>
+<g clip-path="url(#p)">
+<rect x="280" y="14" width="340" height="64" fill="#0a0d1f"/>
+<g filter="url(#bl)"><circle cx="311" cy="27" r="42" fill="#7b4dff" opacity="0.95"/><circle cx="593" cy="73" r="43" fill="#ff4d8d" opacity="0.85"/><circle cx="451" cy="83" r="38" fill="#22d3ee" opacity="0.8"/><circle cx="579" cy="8" r="48" fill="#ffb84d" opacity="0.55"/><circle cx="305" cy="78" r="37" fill="#5b8cff" opacity="0.7"/></g>
+<rect x="280" y="14" width="340" height="64" fill="url(#sheen)"/>
+<rect x="280" y="14" width="340" height="64" filter="url(#nz)" opacity=".16"/>
+</g>
+</g>
+<rect x="280" y="14" width="340" height="64" rx="32" fill="none" stroke="url(#edge)" stroke-width="1.6"/>
+<rect x="282.5" y="16.5" width="335" height="59" rx="29.5" fill="none" stroke="#fff" stroke-opacity=".07"/>
+<rect x="312" y="14.4" width="276" height="1.6" fill="url(#shine)"/>
+<text x="450" y="56" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif" font-size="20" font-weight="700" letter-spacing="3" fill="#fff" style="paint-order:stroke" stroke="#0a0d1f" stroke-opacity=".25" stroke-width="3">⚙️ PROJECTS</text>
+</svg>

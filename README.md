@@ -2,7 +2,7 @@
 
 <!-- Header Banner: Glass Panel -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=2b1466&height=220&text=👋%20Hi,%20I'm%20Ömer%20👋&fontSize=42&fontColor=ffffff&animation=twinkle&stroke=b8a8ff&strokeWidth=2" width="100%" />
+    <img src="assets/hero.svg" alt="👋 Hi, I'm Ömer 👋" width="100%" />
 </a>
 
 <br>
@@ -17,19 +17,20 @@
 
 <!-- Section: About Me -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=261a5e&height=64&text=💫%20ABOUT%20ME&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%" />
+    <img src="assets/section-about.svg" alt="💫 ABOUT ME" width="100%" />
 </a>
 
 <br><br>
 
-<p align="center"> I am a peaceful person who does no harm to anyone, is married, happy and has children.<br>All of my work is for hobby purposes and I do not have a commercial purpose.<br>I update my current projects and work on new projects whenever I get the chance.
-</p>
+<a href="#!">
+    <img src="assets/about.svg" alt="I am a peaceful person who does no harm to anyone, is married, happy and has children. All of my work is for hobby purposes and I do not have a commercial purpose. I update my current projects and work on new projects whenever I get the chance." width="100%" />
+</a>
 
 <br><br>
 
 <!-- Section: Projects -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=1f2563&height=64&text=⚙️%20PROJECTS&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%" />
+    <img src="assets/section-projects.svg" alt="⚙️ PROJECTS" width="100%" />
 </a>
 
 <br><br>
@@ -97,7 +98,7 @@
 
 <!-- Section: Projects Web Pages -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=183a70&height=64&text=⚙️%20PROJECTS%20WEB%20PAGES&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%"/>
+    <img src="assets/section-web-pages.svg" alt="⚙️ PROJECTS WEB PAGES" width="100%"/>
 </a>
 
 <br><br>
@@ -113,7 +114,7 @@
 
 <!-- Section: Tech Stack -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0f4c75&height=64&text=💻%20TECH%20STACK&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%"/>
+    <img src="assets/section-tech-stack.svg" alt="💻 TECH STACK" width="100%"/>
 </a>
 
 <br><br>
@@ -129,7 +130,7 @@
 
 <!-- Section: GitHub Stats -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=1f2563&height=64&text=📊%20GITHUB%20STATS&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%"/>
+    <img src="assets/section-github-stats.svg" alt="📊 GITHUB STATS" width="100%"/>
 </a>
 
 <br><br>
@@ -152,7 +153,7 @@
 
 <!-- Section: Socials -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=261a5e&height=64&text=🌐%20SOCIALS&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%"/>
+    <img src="assets/section-socials.svg" alt="🌐 SOCIALS" width="100%"/>
 </a>
 
 <br><br>
@@ -184,7 +185,7 @@
 <!-- Footer Banner -->
 <div align="center">
     <a href="#!">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=2b1466&height=96&text=Last+Update:+Oct+28,+2026+•+Made+with+❤️&fontSize=16&stroke=b8a8ff&strokeWidth=2" width="100%"/>
+        <img src="assets/footer.svg" alt="Last Update: Oct 28, 2026 • Made with ❤️" width="100%"/>
     </a>
 </div>
 </div>
