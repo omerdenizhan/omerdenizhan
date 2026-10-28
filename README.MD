@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Header Banner: Glassmorphic Gradient Wave -->
+<!-- Header Banner: Glass Panel -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=👋%20Hi,%20I'm%20Ömer%20👋&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=👋%20Hi,%20I'm%20Ömer%20👋&fontSize=42&fontColor=ffffff&animation=twinkle&stroke=ffffff&strokeWidth=2" width="100%" />
 </a>
 
 <br>
 
-<!-- Visitor Counter: Premium Gradient Badge -->
+<!-- Visitor Counter: Glass Badge -->
 
 <a href="#!">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=omerdenizhan&left_text=Visitors" alt="Visitors">
@@ -17,7 +17,7 @@
 
 <!-- Section: About Me -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10,20,30&height=50&text=💫%20ABOUT%20ME&fontSize=20&fontColor=ffffff" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=10,20,30&height=60&text=💫%20ABOUT%20ME&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%" />
 </a>
 
 <br><br>
@@ -29,7 +29,7 @@
 
 <!-- Section: Projects -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=20,30,40&height=50&text=⚙️%20PROJECTS&fontSize=20&fontColor=ffffff" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=20,30,40&height=60&text=⚙️%20PROJECTS&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%" />
 </a>
 
 <br><br>
@@ -97,7 +97,7 @@
 
 <!-- Section: Projects Web Pages -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=22,32,42&height=50&text=⚙️%20PROJECTS%20WEB%20PAGES&fontSize=20&fontColor=ffffff" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=22,32,42&height=60&text=⚙️%20PROJECTS%20WEB%20PAGES&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%"/>
 </a>
 
 <br><br>
@@ -113,7 +113,7 @@
 
 <!-- Section: Tech Stack -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=15,25,35&height=50&text=💻%20TECH%20STACK&fontSize=20&fontColor=ffffff" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=15,25,35&height=60&text=💻%20TECH%20STACK&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%"/>
 </a>
 
 <br><br>
@@ -129,7 +129,7 @@
 
 <!-- Section: GitHub Stats -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=25,35,45&height=50&text=📊%20GITHUB%20STATS&fontSize=20&fontColor=ffffff" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=25,35,45&height=60&text=📊%20GITHUB%20STATS&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%"/>
 </a>
 
 <br><br>
@@ -152,7 +152,7 @@
 
 <!-- Section: Socials -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=30,40,50&height=50&text=🌐%20SOCIALS&fontSize=20&fontColor=ffffff" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,40,50&height=60&text=🌐%20SOCIALS&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%"/>
 </a>
 
 <br><br>
@@ -184,7 +184,7 @@
 <!-- Footer Banner -->
 <div align="center">
     <a href="#!">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,10,2,0&height=120&section=footer&text=Last+Update:+Oct+28,+2026+•+Made+with+❤️&fontSize=16" width="100%"/>
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,24,10,2,0&height=80&section=footer&text=Last+Update:+Oct+28,+2026+•+Made+with+❤️&fontSize=16&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%"/>
     </a>
 </div>
 </div>
