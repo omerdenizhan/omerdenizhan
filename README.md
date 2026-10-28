@@ -2,7 +2,7 @@
 
 <!-- Header Banner: Glass Panel -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,10,24,30&height=220&text=👋%20Hi,%20I'm%20Ömer%20👋&fontSize=42&fontColor=ffffff&animation=twinkle&stroke=ffffff&strokeWidth=2" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=2b1466&height=220&text=👋%20Hi,%20I'm%20Ömer%20👋&fontSize=42&fontColor=ffffff&animation=twinkle&stroke=b8a8ff&strokeWidth=2" width="100%" />
 </a>
 
 <br>
@@ -17,24 +17,19 @@
 
 <!-- Section: About Me -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10,20,30&height=64&text=💫%20ABOUT%20ME&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=2" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=261a5e&height=64&text=💫%20ABOUT%20ME&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%" />
 </a>
 
 <br><br>
 
-<table align="center">
-    <tr>
-        <td align="center">
-            I am a peaceful person who does no harm to anyone, is married, happy and has children.<br>All of my work is for hobby purposes and I do not have a commercial purpose.<br>I update my current projects and work on new projects whenever I get the chance.
-        </td>
-    </tr>
-</table>
+<p align="center"> I am a peaceful person who does no harm to anyone, is married, happy and has children.<br>All of my work is for hobby purposes and I do not have a commercial purpose.<br>I update my current projects and work on new projects whenever I get the chance.
+</p>
 
 <br><br>
 
 <!-- Section: Projects -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,30,40&height=64&text=⚙️%20PROJECTS&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=2" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=1f2563&height=64&text=⚙️%20PROJECTS&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%" />
 </a>
 
 <br><br>
@@ -44,55 +39,55 @@
     <tr>
         <td align="center" width="50%" style="padding: 5px;">
             <a href="https://github.com/omerdenizhan/Video-Downloader">
-                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Video-Downloader&theme=radical&show_owner=false&border_radius=20&card_width=400&description_lines_count=1&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="D-Tube Video Downloader"/>
+                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Video-Downloader&theme=radical&show_owner=false&border_radius=24&card_width=400&description_lines_count=1&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="D-Tube Video Downloader"/>
             </a>
         </td>
         <td align="center" width="50%" style="padding: 5px;">
             <a href="https://github.com/omerdenizhan/Site360Pro">
-                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Site360Pro&theme=radical&show_owner=false&border_radius=20&card_width=400&description_lines_count=1&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="Site360Pro"/>
+                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Site360Pro&theme=radical&show_owner=false&border_radius=24&card_width=400&description_lines_count=1&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="Site360Pro"/>
             </a>
         </td>
     </tr>
     <tr>
         <td align="center" width="50%" style="padding: 5px;">
             <a href="https://github.com/omerdenizhan/Kisisel-Finans-Yonetimi">
-                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kisisel-Finans-Yonetimi&theme=radical&show_owner=false&border_radius=20&card_width=400&description_lines_count=1&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="Kişisel Finans Yönetimi"/>
+                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kisisel-Finans-Yonetimi&theme=radical&show_owner=false&border_radius=24&card_width=400&description_lines_count=1&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="Kişisel Finans Yönetimi"/>
             </a>
         </td>
         <td align="center" width="50%" style="padding: 5px;">
             <a href="https://github.com/omerdenizhan/Kredi-Taksit-Takip-Sistemi">
-                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kredi-Taksit-Takip-Sistemi&theme=radical&show_owner=false&border_radius=20&card_width=400&description_lines_count=1&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="Kredi Taksit Takip Sistemi"/>
+                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Kredi-Taksit-Takip-Sistemi&theme=radical&show_owner=false&border_radius=24&card_width=400&description_lines_count=1&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="Kredi Taksit Takip Sistemi"/>
             </a>
         </td>
     </tr>
     <tr>
         <td align="center" width="50%" style="padding: 5px;">
             <a href="https://github.com/omerdenizhan/IPTV-M3U-Editor">
-                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U-Editor&theme=radical&show_owner=false&border_radius=20&card_width=400&description_lines_count=1&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="IPTV M3U Editor"/>
+                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U-Editor&theme=radical&show_owner=false&border_radius=24&card_width=400&description_lines_count=1&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="IPTV M3U Editor"/>
             </a>
         </td>
         <td align="center" width="50%" style="padding: 5px;">
             <a href="https://github.com/omerdenizhan/IPTV-M3U">
-                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U&theme=radical&show_owner=false&border_radius=20&card_width=400&description_lines_count=1&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="IPTV M3U"/>
+                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U&theme=radical&show_owner=false&border_radius=24&card_width=400&description_lines_count=1&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="IPTV M3U"/>
             </a>
         </td>
     </tr>
     <tr>
         <td align="center" width="50%" style="padding: 5px;">
             <a href="https://github.com/omerdenizhan/batch-scripts">
-                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=batch-scripts&theme=radical&show_owner=false&border_radius=20&card_width=400&description_lines_count=1&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="Batch Scripts"/>
+                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=batch-scripts&theme=radical&show_owner=false&border_radius=24&card_width=400&description_lines_count=1&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="Batch Scripts"/>
             </a>
         </td>
         <td align="center" width="50%" style="padding: 5px;">
             <a href="https://github.com/omerdenizhan/Material-Design-Dark-Cursors">
-                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Material-Design-Dark-Cursors&theme=radical&show_owner=false&border_radius=20&card_width=400&description_lines_count=1&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="Material Design Dark Cursors"/>
+                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=Material-Design-Dark-Cursors&theme=radical&show_owner=false&border_radius=24&card_width=400&description_lines_count=1&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="Material Design Dark Cursors"/>
             </a>
         </td>
     </tr>
     <tr>
         <td align="center" width="50%" style="padding: 5px;">
             <a href="https://github.com/omerdenizhan/win-reg-compilations">
-                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=win-reg-compilations&theme=radical&show_owner=false&border_radius=20&card_width=400&description_lines_count=1&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="Regedit Compilations"/>
+                <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=win-reg-compilations&theme=radical&show_owner=false&border_radius=24&card_width=400&description_lines_count=1&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="Regedit Compilations"/>
             </a>
         </td>
     </tr>
@@ -102,7 +97,7 @@
 
 <!-- Section: Projects Web Pages -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=22,32,42&height=64&text=⚙️%20PROJECTS%20WEB%20PAGES&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=2" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=183a70&height=64&text=⚙️%20PROJECTS%20WEB%20PAGES&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%"/>
 </a>
 
 <br><br>
@@ -110,7 +105,7 @@
 <!-- Same Dimension Web Page Card -->
 <p align="center">
     <a href="https://omerdenizhan.github.io/IPTV-M3U-Editor">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U-Editor&theme=radical&show_owner=false&border_radius=20&card_width=400&description_lines_count=1&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="IPTV M3U Editor Web Page"/>
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=omerdenizhan&repo=IPTV-M3U-Editor&theme=radical&show_owner=false&border_radius=24&card_width=400&description_lines_count=1&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="IPTV M3U Editor Web Page"/>
     </a>
 </p>
 
@@ -118,7 +113,7 @@
 
 <!-- Section: Tech Stack -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=15,25,35&height=64&text=💻%20TECH%20STACK&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=2" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0f4c75&height=64&text=💻%20TECH%20STACK&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%"/>
 </a>
 
 <br><br>
@@ -134,22 +129,22 @@
 
 <!-- Section: GitHub Stats -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,35,45&height=64&text=📊%20GITHUB%20STATS&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=2" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=1f2563&height=64&text=📊%20GITHUB%20STATS&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%"/>
 </a>
 
 <br><br>
 
 <p align="center">
     <a href="#!">
-        <img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&border_radius=20&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="GitHub Stats">
+        <img src="https://github-readme-stats.shion.dev/api?username=omerdenizhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&border_radius=24&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="GitHub Stats">
     </a>
     <br><br>
     <a href="#!">
-        <img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=radical&hide_border=false&border_radius=20&background=135,7b4dff55,22d3ee33&border=ffffff66&stroke=ffffff33&ring=c9b8ff&fire=ffb84d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9b8ff&sideLabels=eef0ff&dates=cfd3ff" alt="Current Streaks">
+        <img src="https://streak-stats.demolab.com/?user=omerdenizhan&theme=radical&hide_border=false&border_radius=24&background=135,1a1147,2d1b69,0f4c75&border=b8a8ff99&stroke=ffffff33&ring=22d3ee&fire=ffb84d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=d9dcff&dates=aeb4ff" alt="Current Streaks">
     </a>
     <br><br>
     <a href="#!">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=20&bg_color=135,7b4dff55,22d3ee33&border_color=ffffff66&title_color=ffffff&text_color=eef0ff&icon_color=c9b8ff&ring_color=c9b8ff&hide_border=false" alt="Most Used Languages">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omerdenizhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=24&bg_color=135,1a1147,2d1b69,0f4c75&border_color=b8a8ff99&title_color=ffffff&text_color=d9dcff&icon_color=a78bfa&ring_color=22d3ee&hide_border=false" alt="Most Used Languages">
     </a>
 </p>
 
@@ -157,7 +152,7 @@
 
 <!-- Section: Socials -->
 <a href="#!">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30,40,50&height=64&text=🌐%20SOCIALS&fontSize=20&fontColor=ffffff&stroke=ffffff&strokeWidth=2" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=261a5e&height=64&text=🌐%20SOCIALS&fontSize=20&fontColor=ffffff&stroke=b8a8ff&strokeWidth=2" width="100%"/>
 </a>
 
 <br><br>
@@ -189,7 +184,7 @@
 <!-- Footer Banner -->
 <div align="center">
     <a href="#!">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30,24,10,2,0&height=96&text=Last+Update:+Oct+28,+2026+•+Made+with+❤️&fontSize=16&stroke=ffffff&strokeWidth=2" width="100%"/>
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=2b1466&height=96&text=Last+Update:+Oct+28,+2026+•+Made+with+❤️&fontSize=16&stroke=b8a8ff&strokeWidth=2" width="100%"/>
     </a>
 </div>
 </div>
